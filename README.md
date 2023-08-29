@@ -15,4 +15,7 @@
 - p05-tabla-de-conversion
 - p06-factorial-numeros
 
+# Actividad 3
+- p07-estadisticas
+
 para hacer programa es: dotnet new console -o "nombre"
