@@ -18,4 +18,11 @@
 # Actividad 3
 - p07-estadisticas
 
+# Actividad 4
+- p08-distancia-puntos
+- p09-volumen-esfera
+- p10-calificaciones
+- p11-venta-articulos
+- p12-numeros-arreglo
+
 para hacer programa es: dotnet new console -o "nombre"
