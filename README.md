@@ -25,4 +25,9 @@
 - p11-venta-articulos
 - p12-numeros-arreglo
 
+# Actividad 5
+
+- p13-empleado
+- p14-control-bancario-v1
+
 para hacer programa es: dotnet new console -o "nombre"
