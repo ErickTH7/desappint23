@@ -30,4 +30,7 @@
 - p13-empleado
 - p14-control-bancario-v1
 
+# Actividad 6 
+- p15-control-bancario-v2
+
 para hacer programa es: dotnet new console -o "nombre"
