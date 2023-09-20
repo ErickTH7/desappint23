@@ -33,4 +33,7 @@
 # Actividad 6 
 - p15-control-bancario-v2
 
+# Tarea 2
+- p16-control-ventas-v1 
+
 para hacer programa es: dotnet new console -o "nombre"
