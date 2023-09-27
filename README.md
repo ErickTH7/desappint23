@@ -36,4 +36,10 @@
 # Tarea 2
 - p16-control-ventas-v1 
 
+# Actividad de la tarea 2
+- p17-control-ventas
+
+# examen 1
+- p18-examen1
+
 para hacer programa es: dotnet new console -o "nombre"
