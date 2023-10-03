@@ -42,4 +42,9 @@
 # examen 1
 - p18-examen1
 
+# Actividad 6
+- p19-linq
+- p19-linq2
+- p20-linq3
+
 para hacer programa es: dotnet new console -o "nombre"
