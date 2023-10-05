@@ -47,4 +47,8 @@
 - p19-linq2
 - p20-linq3
 
+# actividad 7
+- p21-linq4
+- p22-linq5
+
 para hacer programa es: dotnet new console -o "nombre"
