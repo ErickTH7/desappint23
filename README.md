@@ -55,4 +55,7 @@
 - p23-razor
 - p24-Todolist
 
+# Actividad 9
+- p25-crud
+
 para hacer programa es: dotnet new console -o "nombre"
