@@ -58,4 +58,7 @@
 # Actividad 9
 - p25-crud
 
+# Actividad
+- p28-curd-universidad
+
 para hacer programa es: dotnet new console -o "nombre"
